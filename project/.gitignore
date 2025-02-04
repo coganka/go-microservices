@@ -1,0 +1,16 @@
+/bin/
+/dist/
+/pkg/
+
+*.log
+*.test
+*.prof
+*.trace
+
+.vscode/
+.idea/
+
+.env
+.env.local
+.env.*.local
+secrets.env
